@@ -13,7 +13,7 @@ I am an ICT student specializing in Application Development. This portfolio show
 ---
 
 ## Mock Interview Video
-(Add your video link here later)
+https://youtube.com/shorts/sme34N0qBUo?feature=share
 
 ---
 
