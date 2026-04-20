@@ -10,9 +10,6 @@ I am an ICT student specializing in Application Development. This portfolio show
 ### Markdown CV
 [View My CV](cv.md)
 
-### Professional CV (PDF)
-[Download My CV](CONFIDENCEKHOZAcv.pdf)
-
 ---
 
 ## Mock Interview Video
