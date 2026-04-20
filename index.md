@@ -11,7 +11,7 @@ I am an ICT student specializing in Application Development. This portfolio show
 [View My CV](cv.md)
 
 ### Professional CV (PDF)
-[Download My CV](assets/cv.pdf)
+[Download My CV](cv.pdf)
 
 ---
 
