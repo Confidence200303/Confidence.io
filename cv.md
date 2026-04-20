@@ -33,14 +33,15 @@ environment
   
 ## Work Experience
 
-### Library Assistant | Midrand Primary School
-*2021 - 2021*
-- Assisted students and staff with locating books 
-  and digital resources 
-- Managed book check-ins and checkouts using the 
-  library system 
--  Maintained accurate records and proper filing
-  
+### Retail Assitant | Mr Price
+*2024 - 2024*
+- Assisted customers with product selection and 
+  queries
+- Worked across multiple store department
+- Managed stock replenishment and merchandising
+- Maintained store presentation and ensured 
+  customer satisfaction
+
 ### JumpStart Programme Participant | Mr Price Foundation
 *2024 - 2024*
 - Completed retail readiness and workplace skills 
@@ -52,15 +53,14 @@ environment
 -  Learned professional workplace conduct and time 
    management
 
-### Retail Assitant | Mr Price
-*2024 - 2024*
-- Assisted customers with product selection and 
-  queries
-- Worked across multiple store department
-- Managed stock replenishment and merchandising
-- Maintained store presentation and ensured 
-  customer satisfaction 
-
+### Library Assistant | Midrand Primary School
+*2021 - 2021*
+- Assisted students and staff with locating books 
+  and digital resources 
+- Managed book check-ins and checkouts using the 
+  library system 
+-  Maintained accurate records and proper filing
+  
 ---
 
 ## Technical Skills
