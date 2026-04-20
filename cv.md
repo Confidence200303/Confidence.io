@@ -2,7 +2,7 @@
 
 ## Personal Details 
 **ICT Student** 
-- Name: Confidence TLangelani Khoza
+- Name: Confidence Tlangelani Khoza
 - Email: 222927402@mycput.ac.za
 - Github: [github.com/confidence200303](https://github.com/confidence200303)
 - LinkedIn: www.linkedin.com/in/confidencekhoza-4793a9233
