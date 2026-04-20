@@ -5,11 +5,17 @@ I am an ICT student specializing in Application Development. This portfolio show
 
 ---
 
-## My CV
- [View My CV](cv.md)
+## My Markdown CV
+ [View My CV](MarkdownCV.md)
 
 ---
 
+## My CV
+[View My CV](cv.md)
+
+---
+
+[View My CV](
 ## Mock Interview Video
 (Add your video link here later)
 
