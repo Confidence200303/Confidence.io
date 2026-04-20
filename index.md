@@ -7,29 +7,29 @@ I am an ICT student specializing in Application Development. This portfolio show
 
 ## My CV
 
-### Markdown CV 
- [View My Markdown CV](cv.md)
+### Markdown CV
+[View My CV](cv.md)
 
-### Professional CV 
- [Download My CV (PDF)](assets/cv.pdf)
+### Professional CV (PDF)
+[Download My CV](assets/cv.pdf)
 
 ---
 
-##  Mock Interview Video
+## Mock Interview Video
 (Add your video link here later)
 
 ---
 
-##  Reflections
- [View My Reflections](reflections.md)
+## Reflections
+[View My Reflections](reflections.md)
 
 ---
 
-##  GitHub Pages
+## GitHub Pages
 This portfolio is published using GitHub Pages.
 
 ---
 
-##  Contact
+## Contact
 - Email: 222927402@mycput.ac.za  
 - GitHub: https://github.com/Confidence200303
