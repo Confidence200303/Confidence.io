@@ -24,7 +24,7 @@ I am an ICT student specializing in Application Development. This portfolio show
 
 ## GitHub Pages
 This portfolio is published using GitHub Pages.
- 
+https://confidence200303.github.io/Confidence.io/
 ---
 
 ## Contact
